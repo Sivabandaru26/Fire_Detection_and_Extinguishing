@@ -3,7 +3,7 @@ The purpose of this project is to design and develop an autonomous fire-fighting
 
 # Table of Contents
 1) Project Overview
-2) Feactures
+2) Features
 3) Technologies Used
 4) Applications
 5) Links
@@ -11,7 +11,7 @@ The purpose of this project is to design and develop an autonomous fire-fighting
 # Project Overview
 The Fire Fighting Robot is an autonomous system powered by Arduino, designed to detect and extinguish fires efficiently in confined spaces. Equipped with flame sensors, mobility features, and a water-spraying mechanism, it offers a smart, automated solution for fire safety in hazardous or hard-to-reach areas.
 
-# Feactures
+# Features
 1) Fire Detection
    - Equip the robot with sensors capable of quickly identifying the presence of fire or high temperatures within its vicinity.
 2) Autonomous Navigation
